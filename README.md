@@ -27,4 +27,4 @@
     [self.view addSubview:_cursorView];
     //属性设置完成后，调用此方法绘制界面
     [_cursorView reloadPages];
-![image]https://github.com/jieyiyou/WYSegmentView/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-06-28%20at%2014.45.31.png
+![image]https://github.com/jieyiyou/WYSegmentView/blob/master/%E5%9B%BE%E7%89%87.png
